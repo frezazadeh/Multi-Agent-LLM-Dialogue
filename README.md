@@ -9,3 +9,11 @@ This project is an interactive multi-chatbot interface built with Gradio. It all
 - **Extensible Architecture:** Easily extend the project to integrate additional LLM models.
 - **Modular Codebase:** The project is split into multiple files for better organization and maintainability.
 
+## Configure Environment Variables
+
+Create a .env file in the root directory with your API keys:
+
+```bash
+OPENAI_API_KEY=your_openai_api_key
+ANTHROPIC_API_KEY=your_anthropic_api_key
+OLLAMA_API_KEY=your_ollama_api_key  # if required
