@@ -1,3 +1,6 @@
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+
 # Multi-Chatbot Conversation
 
 This project is an interactive multi-chatbot interface built with Gradio. It allows users to initiate a conversation topic and see how multiple AI models (currently **OPEN AI**, **CLAUDE**, and **OLLAMA**) respond and critique each other in real time. Each model’s output is displayed in its own separate box for clarity.
